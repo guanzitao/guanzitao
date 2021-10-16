@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ![](https://github.com/orta/orta/raw/master/2020/output/dropped-timeline.gif)
 
 [Sponsor my work outside of TypeScript](https://github.com/sponsors/orta)
+images/皮卡丘.jpg
