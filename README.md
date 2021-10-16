@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanzitao)](https://github.com/anuraghazra/github-readme-stats)
+[![guanzitao's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanzitao ID&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github.com/orta/orta/raw/master/2020/output/dropped-timeline.gif)
 
 [Sponsor my work outside of TypeScript](https://github.com/sponsors/orta)
