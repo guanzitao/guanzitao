@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![guanzitao's github starts](https://github-readme-stats.vercel.app/api?username=guanzitao ID&show_icons=true&theme=radical)]
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
 ![](https://github.com/orta/orta/raw/master/2020/output/dropped-timeline.gif)
 
