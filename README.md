@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanzitao)](https://github.com/anuraghazra/github-readme-stats)
-https://raw.githubusercontent.com/orta/orta/master/2020/output/dropped-timeline.gif
+![image](https://user-images.githubusercontent.com/92320544/137584408-e9edeb4f-a368-48db-b842-aae1e302702e.png)
+
