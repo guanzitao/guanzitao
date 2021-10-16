@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
-
+![](https://visitor-badge.glitch.me/badge?page_id=guanzitao.readme)
 ![](https://github.com/orta/orta/raw/master/2020/output/dropped-timeline.gif)
 
 [Sponsor my work outside of TypeScript](https://github.com/sponsors/orta)
